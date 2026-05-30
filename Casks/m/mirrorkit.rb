@@ -1,8 +1,8 @@
 cask "mirrorkit" do
   version "1.0.0"
-  sha256 "62cc6d175ae84ed19dc5116186e65fba879f5b01aafdabb88b17123fb14e934a"
+  sha256 "4b11f892eea94e3acd06444f1ac2dc64e712d12aac6715f20db8d7a5db87b2c8"
 
-  url "https://github.com/silica-labs/mirrorkit/releases/download/v#{version}/MirrorKit-v#{version}.dmg",verified: "github.com/silica-labs/mirrorkit"
+  url "https://github.com/silica-labs/mirrorkit/releases/download/v#{version}/MirrorKit-v#{version}.dmg", verified: "github.com/silica-labs/mirrorkit"
   name "MirrorKit"
   desc "Developer tool mirror switcher"
   homepage "https://mirrorkit.app/"
